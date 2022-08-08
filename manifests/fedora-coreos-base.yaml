@@ -9,7 +9,6 @@ include:
   - system-configuration.yaml
   - user-experience.yaml
   - shared-workarounds.yaml
-  - hardware-support.yaml
 
 ostree-layers:
   - overlay/05core
